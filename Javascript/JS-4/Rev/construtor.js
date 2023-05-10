@@ -38,3 +38,6 @@ manga.setpublished(true)
 manga.addInstock(11)
 
 console.log(manga)
+
+const mangavl2 = new Book("JOJO", 300, ['comedia', 'aventura', 'shounei'], 'akari')
+console.log(mangavl2)
